@@ -1,0 +1,15 @@
+.banner{
+   background-image: linear-gradient(#051222f1,#051222f1),url(../img/moviebackground.jpg);
+}
+.year{
+    margin: 4px 5px;
+    background-color: #FE6602;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+.action{
+    margin: 4px 5px;
+    background-color: red;
+    padding: 3px 5px;
+    border-radius: 3px;
+}

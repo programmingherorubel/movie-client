@@ -1,0 +1,10 @@
+.recentMovie{
+    background-image: linear-gradient(#051222f1,#051222f1),url(../Home/img/moviebackground.jpg);
+    padding: 100px 0px;
+}
+.singlemovie{
+    transition: 0.4s;
+}
+.singlemovie:hover{
+    transform: scale(1.1);
+}

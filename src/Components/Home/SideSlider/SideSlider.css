@@ -1,0 +1,30 @@
+.sidebanner{
+    height: auto;
+    background-image: linear-gradient(#051222f1,#051222f1),url(../img/moviebackground.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.tabs{
+    background-color: #DE1E2F;
+    color: white;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 15px;
+}
+.activeTab {
+    background-color: white;
+    color: tomato;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 15px;
+}
+.singleContentPackage{
+    display: none;
+    transition: all ease-in-out;
+}
+.activePacage{
+    display: block;
+}
+ol, ul {
+    padding-left: 0rem;
+}
